@@ -1,2 +1,2 @@
-# thesis_cardiopulmonarycodes
+# Trabajo de titulación previo a la obtención del título de Ingeniero en Biomédicina
 DISEÑO E IMPLEMENTACIÓN DE UN SISTEMA BIOMÉDICO PARA LA CLASIFICACIÓN DE ENFERMEDADES CARDIOPULMONARES MEDIANTE EL ANÁLISIS DE SEÑALES ACÚSTICAS USANDO MACHINE LEARNING
