@@ -1,5 +1,5 @@
-# Trabajo de titulación previo a la obtención del título de Ingeniero en Biomédicina
-DISEÑO E IMPLEMENTACIÓN DE UN SISTEMA BIOMÉDICO PARA LA CLASIFICACIÓN DE ENFERMEDADES CARDIOPULMONARES MEDIANTE EL ANÁLISIS DE SEÑALES ACÚSTICAS USANDO MACHINE LEARNING
+### Trabajo de titulación previo a la obtención del título de Ingeniero en Biomédicina
+## DISEÑO E IMPLEMENTACIÓN DE UN SISTEMA BIOMÉDICO PARA LA CLASIFICACIÓN DE ENFERMEDADES CARDIOPULMONARES MEDIANTE EL ANÁLISIS DE SEÑALES ACÚSTICAS USANDO MACHINE LEARNING
 
 Running the simulation
 It is recommended to create a new virtual environment with python version 3.11.0 as this version of Python was used for development.
