@@ -22,6 +22,7 @@ warnings.filterwarnings('ignore', category=FutureWarning)
 
 # Adquisición de Datos: Carga de librerías y preparación del conjunto de datos.
 dataset = []
+# Estructura para las rutas de los audios "[Ubicacion de ambas bases de datos]/set_a/*.wav"
 for folder in ["C:/Users/Gus/Documents/Python/Lightshot/set_a/*.wav", "C:/Users/Gus/Documents/Python/Lightshot/set_b/*.wav"]:
     for filename in glob.iglob(folder):
         if os.path.exists(filename):
