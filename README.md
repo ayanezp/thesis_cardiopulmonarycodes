@@ -6,9 +6,9 @@ Se recomienda crear un nuevo entorno local con la versión 3.11.0 de Python, ya 
 
 * Caracteristicas del equipo utilizado como entorno local:
 * Procesador: 13th Gen Intel(R) Core(TM) i5-13600KF
-Memoria Ram: 32,0 GB Ddr5 a 6000 MHz
-Tarjeta grafica: GPU NVIDIA GeForce RTX 3070 8 GB
-Disco duro: SPCC M.2 PCIe SSD de 2 TB 
+* Memoria Ram: 32,0 GB Ddr5 a 6000 MHz
+* Tarjeta grafica: GPU NVIDIA GeForce RTX 3070 8 GB
+* Disco duro: SPCC M.2 PCIe SSD de 2 TB 
 
 En el nuevo entorno, para la ejecucion del primer codigo:
 1) Ejecute `pip install -r Requerimientos_Primer_Codigo.txt` para instalar las bibliotecas de Python necesarias.
