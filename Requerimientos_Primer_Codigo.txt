@@ -1,0 +1,11 @@
+numpy
+pandas
+os
+glob
+tqdm
+matplotlib
+librosa
+sklearn
+tensorflow
+keras
+warnings
