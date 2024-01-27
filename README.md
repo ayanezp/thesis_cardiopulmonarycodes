@@ -4,8 +4,8 @@
 
 Se recomienda crear un nuevo entorno local con la versión 3.11.0 de Python, ya que esta versión de Python es la que se utilizó para el desarrollo de este proyecto.
 
-Caracteristicas del equipo utilizado como entorno local:
-Procesador: 13th Gen Intel(R) Core(TM) i5-13600KF
+* Caracteristicas del equipo utilizado como entorno local:
+* Procesador: 13th Gen Intel(R) Core(TM) i5-13600KF
 Memoria Ram: 32,0 GB Ddr5 a 6000 MHz
 Tarjeta grafica: GPU NVIDIA GeForce RTX 3070 8 GB
 Disco duro: SPCC M.2 PCIe SSD de 2 TB 
