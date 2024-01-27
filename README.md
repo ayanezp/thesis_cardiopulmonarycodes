@@ -11,15 +11,15 @@ Se recomienda crear un nuevo entorno local con la versión 3.11.0 de Python, ya 
 * Disco duro: SPCC M.2 PCIe SSD de 2 TB 
 
 En el nuevo entorno, para la ejecucion del primer codigo:
-1) Ejecute `pip install -r Requerimientos_Primer_Codigo.txt` para instalar las bibliotecas de Python necesarias.
-2) Cambie la ruta donde esta ubicada tanto el set_a como el set_b de datos en la linea 25 del primer codigo, considerar siempre utizar la estructura que esta proporcionada como ejemplo a manera de comentario.
-3) Ejecute `Primer_Codigo.py`
-4) Cada módulo está comentado correctamente. Si el ejemplo anterior se ejecuta correctamente, puede comenzar a usarlo y extenderlo según sea necesario para su trabajo.
+1) Ejecutar `pip install -r Requerimientos_Primer_Codigo.txt` para instalar las bibliotecas de Python necesarias.
+2) Cambiar la ruta donde esta ubicada tanto el set_a como el set_b de datos en la linea 25 del primer codigo, considerar siempre utizar la estructura que esta proporcionada como ejemplo a manera de comentario.
+3) Ejecutar `Primer_Codigo.py`
+4) Cada módulo está comentado correctamente. Si el ejemplo anterior se ejecuta correctamente, se puede comenzar a usarlo y extenderlo según sea necesario.
 5) Base de datos usada en el primer codigo: https://www.kaggle.com/datasets/kinguistics/heartbeat-sounds/download?datasetVersionNumber=1
 
-En otro entorno, para la ejecucion del primer codigo:
-1) Ejecute `pip install -r Requerimientos_Segundo_Codigo.txt` para instalar las bibliotecas de Python necesarias.
-2) Cambie la ruta donde esta ubicada tanto el directorio de los audios como la base de datos tanto en la linea 36 como 37 del segundo codigo.
-3) Ejecute `Segundo_Codigo.py`
-4) Cada módulo está comentado correctamente. Si el ejemplo anterior se ejecuta correctamente, puede comenzar a usarlo y extenderlo según sea necesario para su trabajo.
+En otro entorno, para la ejecucion del segundo codigo:
+1) Ejecutar `pip install -r Requerimientos_Segundo_Codigo.txt` para instalar las bibliotecas de Python necesarias.
+2) Cambiar la ruta donde esta ubicada tanto el directorio de los audios como la base de datos tanto en la linea 36 como 37 del segundo codigo.
+3) Ejecutar `Segundo_Codigo.py`
+4) Cada módulo está comentado correctamente. Si el ejemplo anterior se ejecuta correctamente, puede comenzar a usarlo y extenderlo según sea necesario.
 5) Base de datos usada en el segundo codigo: https://www.kaggle.com/datasets/arashnic/lung-dataset/download?datasetVersionNumber=1
